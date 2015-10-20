@@ -1,0 +1,4 @@
+<div class="row marketing">
+  <div id="messages"></div>
+  <textarea id="chat-input" type="text" rows="50" cols="80"></textarea>
+</div>
